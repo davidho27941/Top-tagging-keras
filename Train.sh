@@ -14,5 +14,5 @@ for i in {0..33..1};
 do 
     init=$i
     fin=$[$i + 1]
-    python3 ResNet-50_tf_keras-v6tmp.py $init $fin $test_
+    python3 ResNet-50_tf_keras-v6tmp.py $init $fin $test
 done
