@@ -1,9 +1,8 @@
 .ipynb_checkpoints/*
-
+backup/*
 logs/*
-
 model/*
-
+merge_file/*
 .vscode/*
 
 .ipynb_checkpoints/*
